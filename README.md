@@ -5,7 +5,8 @@ This solution was made during the preparation for the 2020 edition of Google Has
 
 The total score is : **1028685**
 
-Score for :
+Scores for each tests are :
+* a_example : **2**
 * b_lovely_landscapes **206223**
 * c_memorable_moments **1421**
 * d_pet_pictures **413356**
